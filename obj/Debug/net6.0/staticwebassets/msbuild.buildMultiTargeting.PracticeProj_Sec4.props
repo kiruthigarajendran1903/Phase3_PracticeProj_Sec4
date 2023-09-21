@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PracticeProj_Sec4.props" />
+</Project>
